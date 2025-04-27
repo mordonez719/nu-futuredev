@@ -194,21 +194,21 @@ function App() {
       <img 
         className="w-full h-full object-cover rounded-lg" 
         src="src/assets/fd_event_ade.jpg" 
-        alt="Ade at event"
+        alt="FutureDev winter celebration 2025"
       />
     </div>
       <div>
       <img 
         className="w-full h-48 md:h-64 object-cover rounded-lg row-span-1" 
         src="src/assets/fd_event_christina.jpg" 
-        alt="Christina at event" 
+        alt="FutureDev winter celebration 2025"
       />
     </div>
     <div>
       <img 
         className="w-full h-48 object-cover rounded-lg" 
         src="src/assets/fd_event_group.jpg" 
-        alt="Edward at event" 
+        alt="FutureDev winter celebration 2025"
       />
     </div>
   </div>
